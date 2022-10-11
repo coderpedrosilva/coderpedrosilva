@@ -1,7 +1,7 @@
 # Olá 👋
 ## Sou Cadete na 42 e estudante de ADS na UNIP
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/magalhaesm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=prezadopedro&show_icons=true&theme=github_dark&border_radius=8%"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prezadopedro&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
