@@ -1,5 +1,5 @@
 # Olá 👋
-## Sou Cadete na 42 e estudante de ADS na UNIP
+## Sou estudante de ADS na UNIP
 
 <div align="left">
   <a href="https://github.com/magalhaesm">
