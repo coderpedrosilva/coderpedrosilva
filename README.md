@@ -1,5 +1,5 @@
 # Olá 👋
-## Sou estudante de ADS na UNIP
+## Sou estudante de programação, cursando ensino superior
 
 <div align="left">
   <a href="https://github.com/magalhaesm">
