@@ -1,5 +1,5 @@
 # Olá 👋
-## Sou Desenvolvedor Júnior, cursando ensino superior
+## Sou estudante de programação, cursando ensino superior
 
 <div align="left">
   <a href="https://github.com/magalhaesm">
