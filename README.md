@@ -1,6 +1,11 @@
 # Olá 👋
 ## Sou estudante de programação, cursando ensino superior
 
+### 👷 Engenharia de software
+### 💻 Análise e desenvolvimento de sistemas
+
+<br>
+
 <div align="left">
   <a href="https://github.com/magalhaesm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=prezadopedro&show_icons=true&theme=github_dark&border_radius=8%"/>
