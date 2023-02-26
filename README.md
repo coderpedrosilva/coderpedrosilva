@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá 🖖
 ## Sou estudante de programação, cursando ensino superior
 
 ### 👷 Engenharia de software
