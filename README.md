@@ -1,8 +1,10 @@
 # Olá 🖖
-## Sou um Desenvolvedor Junior
+### Sou um Desenvolvedor Junior! 
+#### Estou em busca de novos desafios
+#### Aqui o aprendizado é contínuo
 
-### 💻 Análise e desenvolvimento de sistemas (Graduado)
-### 👷 Engenharia de software (Cursando)
+### 💻 Graduado em Análise e desenvolvimento de sistemas 
+### 👷 Cursando Engenharia de software 
 
 <br>
 
