@@ -1,8 +1,8 @@
 # Olá 🖖
-## Sou estudante de programação, cursando ensino superior
+## Sou um Desenvolvedor Junior
 
-### 👷 Engenharia de software
-### 💻 Análise e desenvolvimento de sistemas
+### 💻 Análise e desenvolvimento de sistemas (Graduado)
+### 👷 Engenharia de software (Cursando)
 
 <br>
 
