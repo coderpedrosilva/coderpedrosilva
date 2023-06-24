@@ -23,6 +23,7 @@
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Pedro-CPP" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://spring.io/img/spring.svg">
   <img align="center" alt="Pedro-Springboot" height="30" width="32" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
