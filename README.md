@@ -3,7 +3,7 @@
 #### Estou em busca de novos desafios
 #### Aqui o aprendizado é contínuo
 
-### 💻 Graduado em Análise e desenvolvimento de sistemas 
+### 👨🏻‍🎓 Graduado em Análise e desenvolvimento de sistemas 
 
 <br>
 
