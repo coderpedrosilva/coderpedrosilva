@@ -4,7 +4,6 @@
 #### Aqui o aprendizado é contínuo
 
 ### 💻 Graduado em Análise e desenvolvimento de sistemas 
-### 👷 Cursando Engenharia de software 
 
 <br>
 
