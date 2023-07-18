@@ -5,13 +5,15 @@
 
 ### 🎓 Graduado em Análise e desenvolvimento de sistemas 🎓
 
-<br>
+  ##
 
 <div align="left">
   <a href="https://github.com/magalhaesm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=prezadopedro&show_icons=true&theme=github_dark&border_radius=8%"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prezadopedro&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
 </div>
+
+  ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,6 +32,13 @@
   <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Pedro-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
+
+   ##
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prezadopedro) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prezadopedro) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/null) 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUnEmI6f3CeLOY-xTVka_5Q)  
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/prezadopedro)
+  
+</div>
