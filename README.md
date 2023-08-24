@@ -1,3 +1,5 @@
+<img src="https://github.com/magalhaesm/magalhaesm/assets/32808884/45853f8a-5ec1-4fce-a005-ddd3983d0fd5" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+
 # Olá 🖖
 ### Sou um Desenvolvedor Junior! 
 #### Estou em busca de novos desafios
