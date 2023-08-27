@@ -25,8 +25,8 @@
   <img align="center" alt="Pedro-Angular" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Pedro-Cpp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Pedro-CPP" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://spring.io/img/spring.svg">
