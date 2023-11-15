@@ -1,11 +1,9 @@
 <img src="https://github.com/magalhaesm/magalhaesm/assets/32808884/45853f8a-5ec1-4fce-a005-ddd3983d0fd5" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 # Olá 🖖
-### Sou um Desenvolvedor Junior! 
+### 🎓 Sou graduado em Análise e desenvolvimento de sistemas 🎓
 #### Estou em busca de novos desafios
 #### Aqui o aprendizado é contínuo
-
-### 🎓 Graduado em Análise e desenvolvimento de sistemas 🎓
 
   ##
 
