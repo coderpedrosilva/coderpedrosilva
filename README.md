@@ -2,7 +2,7 @@
 
 # Olá 🖖
 ### 🎓 Sou graduado em Análise e desenvolvimento de sistemas 🎓
-#### Estou em busca de novos desafios
+#### Sempre em busca de novos desafios para evoluir
 #### Aqui o aprendizado é contínuo
 
   ##
