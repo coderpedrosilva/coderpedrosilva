@@ -2,23 +2,23 @@
 
 # Olá 🖖
 
-👨‍💻 Sobre Mim:
+## 👨‍💻 Sobre Mim:
 
 Entusiasta da tecnologia, formado em Análise e Desenvolvimento de Sistemas, em busca constante de desafios para impulsionar meu crescimento profissional.
 
-🚀 Minha Jornada:
+## 🚀 Minha Jornada:
 
 Busco desafios para aprimorar habilidades e conhecimentos, acreditando no aprendizado como um processo contínuo.
 
-💼 Experiência:
+## 💼 Experiência:
 
 Com experiência em análise e desenvolvimento de sistemas, participei de projetos acadêmicos preparatórios para desafios na área de tecnologia da informação.
 
-🌐 Aprendizado Contínuo:
+## 🌐 Aprendizado Contínuo:
 
-Comprometido em manter-me atualizado, participo ativamente de cursos, workshops e buscando contribuir em projetos de código aberto.
+Comprometido em manter-me atualizado, participo ativamente de cursos, workshops e busco contribuir em projetos de código aberto.
 
-🤝 Colaboração:
+## 🤝 Colaboração:
 
 Acredito na importância da colaboração, aberto a compartilhar conhecimentos. Se busca alguém dedicado e apaixonado por tecnologia, estou pronto para contribuir e aprender juntos. 🚀
 
