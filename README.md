@@ -1,11 +1,28 @@
 <img src="https://github.com/magalhaesm/magalhaesm/assets/32808884/45853f8a-5ec1-4fce-a005-ddd3983d0fd5" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 # Olá 🖖
-### 🎓 Sou graduado em Análise e desenvolvimento de sistemas 🎓
-#### Sempre em busca de novos desafios para evoluir
-#### Aqui o aprendizado é contínuo
 
-  ##
+👨‍💻 Sobre Mim:
+
+Entusiasta da tecnologia, formado em Análise e Desenvolvimento de Sistemas, em busca constante de desafios para impulsionar meu crescimento profissional.
+
+🚀 Minha Jornada:
+
+Busco desafios para aprimorar habilidades e conhecimentos, acreditando no aprendizado como um processo contínuo.
+
+💼 Experiência:
+
+Com experiência em análise e desenvolvimento de sistemas, participei de projetos acadêmicos preparatórios para desafios na área de tecnologia da informação.
+
+🌐 Aprendizado Contínuo:
+
+Comprometido em manter-me atualizado, participo ativamente de cursos, workshops e buscando contribuir em projetos de código aberto.
+
+🤝 Colaboração:
+
+Acredito na importância da colaboração, aberto a compartilhar conhecimentos. Se busca alguém dedicado e apaixonado por tecnologia, estou pronto para contribuir e aprender juntos. 🚀
+
+##
 
 <div align="left">
   <a href="https://github.com/prezadopedro">
