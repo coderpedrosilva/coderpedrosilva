@@ -57,6 +57,7 @@ Acredito na importância da colaboração, aberto a compartilhar conhecimentos. 
   <img align="center" alt="Pedro-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
   <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Pedro-SQLite" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png">
+  <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
  </div>
 
    ##
