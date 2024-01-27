@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre Mim / About Me 
 
-Entusiasta da tecnologia / Technology enthusiast
+Entusiasta de tecnologia / Technology enthusiast
 
 Formado em Análise e Desenvolvimento de Sistemas / Graduated in Analysis and Systems Development
 
