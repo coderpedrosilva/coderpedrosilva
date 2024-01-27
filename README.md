@@ -1,10 +1,15 @@
 <img src="https://github.com/magalhaesm/magalhaesm/assets/32808884/45853f8a-5ec1-4fce-a005-ddd3983d0fd5" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-# Olá 🖖
 
-## 👨‍💻 Sobre Mim
+# 🖖 Olá / Hello 
 
-Entusiasta da tecnologia, formado em Análise e Desenvolvimento de Sistemas, em busca constante de desafios para impulsionar meu crescimento profissional.
+## 👨‍💻 Sobre Mim / About Me 
+
+Entusiasta da tecnologia / Technology enthusiast
+
+Formado em Análise e Desenvolvimento de Sistemas / Graduated in Analysis and Systems Development
+
+Em busca constante de desafios para impulsionar meu crescimento profissional / Constantly seeking challenges to propel my professional growth
 
 ##
 
