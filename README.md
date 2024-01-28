@@ -7,7 +7,7 @@
 
 Entusiasta de tecnologia / Technology enthusiast
 
-Formado em Análise e Desenvolvimento de Sistemas / Graduated in Analysis and Systems Development
+Graduado em Análise e Desenvolvimento de Sistemas / Graduated in Analysis and Systems Development
 
 Em busca constante de desafios para impulsionar meu crescimento profissional / Constantly seeking challenges to propel my professional growth
 
