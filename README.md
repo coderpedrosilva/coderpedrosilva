@@ -15,8 +15,8 @@ Em busca constante de desafios para impulsionar meu crescimento profissional / C
 
 <div align="left">
   <a href="https://github.com/prezadopedro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=prezadopedro&show_icons=true&theme=github_dark&border_radius=8%"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prezadopedro&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=coderpedrosilva&show_icons=true&theme=github_dark&border_radius=8%"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderpedrosilva&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
 </div>
 
   ##
