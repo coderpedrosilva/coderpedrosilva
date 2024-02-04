@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Entusiasta de tecnologia 
+Entusiasta de tecnologia, Analista e Desenvolvedor Júnior
 
 Graduado em Análise e Desenvolvimento de Sistemas 
 
