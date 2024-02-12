@@ -39,7 +39,7 @@ Em busca constante de desafios para impulsionar meu crescimento profissional
   <img align="center" alt="Pedro-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Pedro-R" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/r-programming-language-icon.png">
-  <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-2048x1064-jfbaqrzh.png">
   <img align="center" alt="Pedro-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Pedro-Postgresql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
   <img align="center" alt="Pedro-CouchDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-plain.svg">
