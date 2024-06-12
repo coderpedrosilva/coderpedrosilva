@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Entusiasta de tecnologia, Analista de Desenvolvimento de Sistemas Pleno
+Entusiasta de tecnologia, Analista de Sistemas Pleno
 
 Graduado em Análise e Desenvolvimento de Sistemas 
 
