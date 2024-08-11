@@ -13,6 +13,8 @@ Em busca constante de desafios para impulsionar meu crescimento profissional
 
 ##
 
+## Stats
+
 <div align="left">
   <a href="https://github.com/prezadopedro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=coderpedrosilva&show_icons=true&theme=github_dark&border_radius=8%"/>
@@ -20,6 +22,8 @@ Em busca constante de desafios para impulsionar meu crescimento profissional
 </div>
 
   ##
+
+## Experiência Tecnológica
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -52,6 +56,8 @@ Em busca constante de desafios para impulsionar meu crescimento profissional
  </div>
 
    ##
+
+   ## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/workerpedrosilva) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prezadopedro) 
