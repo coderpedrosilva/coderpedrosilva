@@ -39,7 +39,7 @@ Em busca constante de desafios para impulsionar meu crescimento profissional
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://spring.io/img/spring.svg">
+  <img align="center" alt="Pedro-Spring" height="40" width="40" src="https://i0.wp.com/chelseatroy.com/wp-content/uploads/2015/09/spring.png?resize=340%2C340&ssl=1">
   <img align="center" alt="Pedro-Springboot" height="30" width="32" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
   <img align="center" alt="Pedro-Hibernate" height="30" width="32" src=https://static-00.iconduck.com/assets.00/hibernate-icon-1965x2048-cl94vxbt.png>
   <img align="center" alt="Pedro-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
