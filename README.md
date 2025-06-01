@@ -5,9 +5,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Entusiasta de tecnologia, Analista de Sistemas 
+Entusiasta de tecnologia
 
-Graduado em Análise e Desenvolvimento de Sistemas 
+Graduado em Análise e Desenvolvimento de Sistemas, pós graduando em Engenharia de Redes e Sistemas de Telecomunicações
 
 Em busca constante de desafios para impulsionar meu crescimento profissional 
 
