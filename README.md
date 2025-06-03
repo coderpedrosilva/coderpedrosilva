@@ -7,7 +7,7 @@
 
 Entusiasta de tecnologia
 
-Graduado em Análise e Desenvolvimento de Sistemas, pós graduando em Engenharia de Redes e Sistemas de Telecomunicações
+Graduado em Análise e Desenvolvimento de Sistemas
 
 Em busca constante de desafios para impulsionar meu crescimento profissional 
 
