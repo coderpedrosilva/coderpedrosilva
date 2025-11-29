@@ -2,6 +2,8 @@
 
 ## 👨‍💻 Sobre Mim
 
+Pós-graduando em Inteligência Artificial e Ciência de Dados
+
 Graduado em Análise e Desenvolvimento de Sistemas
 
 Em busca constante de desafios para impulsionar meu crescimento profissional 
