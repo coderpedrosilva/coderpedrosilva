@@ -1,4 +1,4 @@
-Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Inteligência Artificial e Ciência de Dados.]
+Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Inteligência Artificial e Ciência de Dados.
 
 Atuo há mais de 15 anos no setor de tecnologia e telecom
 .
